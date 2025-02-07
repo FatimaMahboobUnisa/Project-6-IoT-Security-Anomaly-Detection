@@ -1,0 +1,6 @@
+.
+├── iot_anomaly_detector.py   # Inference script
+├── Dockerfile.edge           # Edge deployment
+├── train_model.ipynb         # Model training
+├── requirements.txt          # Dependencies
+└── sample.pcap               # Example traffic capture
